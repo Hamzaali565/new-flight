@@ -1,0 +1,222 @@
+body{
+    margin: 0px;
+}
+
+.a{
+    display: flex;justify-content: space-between;background-image: url(Images/download.png) ;height: 600px;
+}
+.a1{
+    list-style-type: none;display: flex;justify-content:flex-start;flex-wrap: wrap; 
+}
+.li-1{
+    margin-right: 30px;
+}
+.li-2{
+    margin-right: 30px;
+}
+.li-3{
+    margin-right: 200px;
+}
+.li-1, .li-2, .li-3{
+    margin-top: 20px;font-family: Arial, Helvetica, sans-serif;font-size: 20px; height: 0%;
+}
+.head1{
+    font-size: 200px; margin-top: 0px;padding-left: 19px;padding-top: 0px;height: 50px;
+}
+p{
+    /* display: flex;justify-content: center;margin-left: 450px; */
+}
+.b1{
+    display: flex;justify-content: space-between;
+}
+.li-01, .li-02, .li-03{
+    list-style-type: none;
+}
+.li-03{
+
+margin-right: 150px;
+}
+.li-02{
+    margin-left: 500px;
+}
+.li-01{
+    font-size: 23px;
+}
+.bu1, .bu2{
+    padding: 15px;color: white;border-radius: 40px;background-color: black;border-style: none;
+}
+.bu1{
+    /* margin-left: 90px; */
+}
+.line1{
+    margin-left: 50px;margin-right: 50px; color: gray;
+}
+.c{
+    display: flex; justify-content: flex-end;margin-right: 150px; font-size: 50px;font-family: Arial, Helvetica, sans-serif;
+}
+.d{
+    display: flex;justify-content:flex-end ;margin-top: 40px;margin-right: 180px;flex-wrap: wrap;
+}
+.hea1{
+    font-family: Arial, Helvetica, sans-serif; font-size: 20px;
+}
+.para1{
+    font-size: 19px; color: gray;margin-top: 30px;
+}
+.e{
+    margin-left: 30px;
+}
+#on1, #on2{
+    margin-top: 70px;
+}
+.f{
+    margin-top: 80px;display: flex;
+}
+.f1, .f2, .f3{
+    border: 1px solid black;
+    width: 500px;height: 700px;
+}
+.ok1{
+font-size: 50px;margin-left: 50px;color:white;
+}
+.ok2{
+    margin-top: 400px;margin-left: 50px;font-size: 20px; color: white;
+}
+.ok3{
+    margin-left: 150px;background: local;padding: 10px;border-radius: 30px;border-style:solid ;border-color:white;color: white;
+}
+.f1{
+    background-color: black;
+}
+.f2{
+    background-color:grey ;
+}
+.f3{
+    color: white;background-color: black;
+}
+.ok4{
+    margin-top: 570px; margin-left: 150px;
+}
+.ok4>a{
+    text-decoration: none;font-size: 25px;font-family: Arial, Helvetica, sans-serif;color: black;
+
+}
+.ok4>a:hover{
+    text-decoration: underline;
+}
+.ok5
+{
+    font-size: 20px;margin-left: 120px;
+}
+.g{
+    display: flex;justify-content: space-around;flex-wrap: wrap;margin-top: 100px;
+}
+
+.hoo{
+    font-family: Arial, Helvetica, sans-serif;margin-top: 0px;
+}
+.note1{
+    margin-top: 40px;
+}
+.nb1, .nb2{
+    border: 1px solid black;width: 700px;height: 700px;margin-top: 100px;background-color: black;
+}
+.h{
+    display: flex;
+}
+.nb2{
+    border: 1px solid black;width: 700px;height: 700px;margin-top: 100px;background-color: gray;
+}
+.pmsr1{
+    font-size: 60px; margin-left: 60px;margin-top: 30px;
+}
+.pmsr2{
+    margin-top: 430px;margin-left: 60px;font-size: 20px;
+}
+
+.pmsr3, .pmsr4{
+    font-size: 140px;font-family: Arial, Helvetica, sans-serif; margin-left: 50px;
+}
+.pmsr3{
+margin-top: 70px;
+}
+.jun{
+    display: flex;
+}
+.jun>ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.jun1{
+    font-size: 20px;
+}
+.jun2{
+    font-size: 20px;
+}
+.jul1{
+    margin-left: 300px;
+}
+.jul2{
+    margin-left: 80px;
+}
+.non{
+    margin-top: 100px;
+}
+.jun2{
+    margin-top: 130px;
+/* } */
+/* .tony{ */
+    /* width: 100%; */
+    /* height: 800px;background-color: black; margin-top: 300px;display: flex; */
+}
+/* .john{ */
+    /* color: white;font-family:Arial, Helvetica, sans-serif; padding-top: 50px;font-size: 60px; padding-left: 50px; */
+    .imy1{
+        color: white; background-color: black; padding: 15px;border-radius: 40px;margin-left: 50px;margin-top: 40px;
+    }
+    .bug1{
+        text-align: center;margin-top: 250px;
+    }
+    .bug2{
+        font-size: 30px; padding-bottom: 0px;color: gray;
+    }
+    .bug3{
+        font-size: 80px;padding-top: 0px;color: black;
+    }
+    .bug3>a{
+        color: black;text-decoration: none;
+    }
+.bug3>a:hover{
+    text-decoration: underline;
+}
+
+.bug4{
+    border: 1px solid black;height: 670px;margin-top: 250px;background-color: black;
+}
+.bug5{
+    border: 1px solid black;padding-bottom: 40px;color: white;
+}
+.bh1{
+    margin-top: 30px;margin-left: 60px;
+}
+.bug6{
+    border: 1px solid black;display: flex;justify-content: space-around;;margin-top: 30px;
+}
+.bug7{
+    display: flex;margin-top: 30px;
+}
+.bug8{
+    display: flex;margin-top: 40px;padding: 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
